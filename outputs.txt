@@ -1,0 +1,2 @@
+Output for test case 1:The secret (constant term c) is: 3
+Output for test case 2: The secret (constant term c) is: 28735619723864
